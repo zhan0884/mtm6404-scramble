@@ -1,2 +1,6 @@
-# mtm6404-scramble
-This repository contains the starter files for the Scramble assignment for MTM6404
+# Scramble
+
+## Objective
+Using the Vue Framework, create an interactive version of the game Scramble.
+
+For complete instruction, see the [Scramble assigment page](https://imdac.github.io/mtm6404/assignments/scramble.html).
